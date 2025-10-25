@@ -15,7 +15,7 @@ on:
         required: true
         default: '32'                
       NAME:
-        description: 'Rom Name'
+        description: 'LineageOS_19.1_A11_M11_ARM32_Vanilla'
         required: true
         default: 'LineageOS_19.1_A11_M11_ARM32_Gapps'                
 
